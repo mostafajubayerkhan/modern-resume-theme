@@ -81,12 +81,13 @@ Data Analyst Intern, Access to Information Program (a2i), 				Apr 2010 – Dec 2
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
+more_content: | 
 EDUCATION                          
 •	M.Sc. in Computer Information Systems, CGPA 3.90, Christian Brothers University, Memphis, 	May 2019
 •	Data Analytics Certificate, School of Engineering, Christian Brothers University, Memphis, 	May 2019 
 •	Machine Learning nanodegree certification (https://confirm.udacity.com/SMCS7KRA), 		Oct 2019
 •	Bachelor of Social Sciences, Anthropology, CGPA 3.28, University of Dhaka, Dhaka, 		Mar 2012
-
+more_content: | 
 COMPETENCIES
 •	Data Mining/Extraction/Cleaning/Manipulation/Transformation, IoT, NLP, Big Data Analytics, API Mapping,
 •	Statistical Modelling (Classification) & Analysis, Advanced ML Techniques & Algorithms (Linear Models, Neural Networks, Decision Trees, Bayesian Techniques, Clustering, Anomaly Detection, Normal Behavior Modeling), 
