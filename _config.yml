@@ -40,26 +40,36 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hi, I’m Mostafa, a passionate Data Driven technology enthusiast. I am highly fascinated by the opportunities created by the abundance of data and computing power in the modern corporate industry. Experienced Data Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Programming( Python, R, SAS, Java) for Data Science (Mathematics, Statistics, Machine Learning algorithm), Database Management (SQL Server 2008/2012, T-SQL, NoSQL, Azure, AWS,), and Data Visualization tools (Power BI, Tableau, Cognos, Tibco Spotfire) etc. Strong mathematical, statistical and programming professional with a Masters of Science (M.Sc.) focused in Data Analytics from Christian Brothers University ., so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+Hi, I’m Mostafa, a passionate Data Driven technology enthusiast. I am highly fascinated by the opportunities created by 
+the abundance of data and computing power in the modern corporate industry. Experienced Data Analyst with a demonstrated
+history of working in the information technology and services industry. Skilled in Programming( Python, R, SAS, Java) for 
+Data Science (Mathematics, Statistics, Machine Learning algorithm), Database Management (SQL Server 2008/2012, T-SQL, NoSQL,
+Azure, AWS,), and Data Visualization tools (Power BI, Tableau, Cognos, Tibco Spotfire) etc. Strong mathematical, statistical
+and programming professional with a Masters of Science (M.Sc.) focused in Data Analytics from Christian Brothers University.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
+, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+    - PROJECTS
+       Image classifier with deep Learning 
+        •	Developed a deep learning model to train an image classifier.
+        •	Model achieved 80% accuracy by the network on test images.
+       Donor prediction for a charity organization
+        •	Developed a Machine learning model to target donors who earn at least $50K annually to reduce mailing costs.
+        •	Model showed achieved 0.8587 F-1 score
+       Incentive calculation for pregnant customers 
+        •	Developed a machine learning model to identify true pregnant women for offering coupons among 1000 customers.
+        •	The model was able to find the actual pregnant women with scored AUC 0.9 AUC scores. 
+    - EDUCATION                          
+        •	M.Sc. in Computer Information Systems, CGPA 3.90, Christian Brothers University, Memphis, 	May 2019
+        •	Data Analytics Certificate, School of Engineering, Christian Brothers University, Memphis, 	May 2019 
+        •	Machine Learning nanodegree certification (https://confirm.udacity.com/SMCS7KRA), 		Oct 2019
+        •	Bachelor of Social Sciences, Anthropology, CGPA 3.28, University of Dhaka, Dhaka, 		Mar 2012
     - <a href="google.com">Links</a>
     - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
-PROJECTS
-       Image classifier with deep Learning 
-•	Developed a deep learning model to train an image classifier.
-•	Model achieved 80% accuracy by the network on test images.
-       Donor prediction for a charity organization
-•	Developed a Machine learning model to target donors who earn at least $50K annually to reduce mailing costs.
-•	Model showed achieved 0.8587 F-1 score
-       Incentive calculation for pregnant customers 
-•	Developed a machine learning model to identify true pregnant women for offering coupons among 1000 customers.
-•	The model was able to find the actual pregnant women with scored AUC 0.9 AUC scores. 
+
 
 
 # Experience Section
@@ -82,11 +92,7 @@ Data Analyst Intern, Access to Information Program (a2i), 				Apr 2010 – Dec 2
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 more_content: | 
-EDUCATION                          
-•	M.Sc. in Computer Information Systems, CGPA 3.90, Christian Brothers University, Memphis, 	May 2019
-•	Data Analytics Certificate, School of Engineering, Christian Brothers University, Memphis, 	May 2019 
-•	Machine Learning nanodegree certification (https://confirm.udacity.com/SMCS7KRA), 		Oct 2019
-•	Bachelor of Social Sciences, Anthropology, CGPA 3.28, University of Dhaka, Dhaka, 		Mar 2012
+
 more_content: | 
 COMPETENCIES
 •	Data Mining/Extraction/Cleaning/Manipulation/Transformation, IoT, NLP, Big Data Analytics, API Mapping,
