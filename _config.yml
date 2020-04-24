@@ -40,30 +40,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hi, I’m Mostafa, a passionate Data Driven technology enthusiast. I am highly fascinated by the opportunities created by 
-the abundance of data and computing power in the modern corporate industry. Experienced Data Analyst with a demonstrated
-history of working in the information technology and services industry. Skilled in Programming( Python, R, SAS, Java) for 
-Data Science (Mathematics, Statistics, Machine Learning algorithm), Database Management (SQL Server 2008/2012, T-SQL, NoSQL,
-Azure, AWS,), and Data Visualization tools (Power BI, Tableau, Cognos, Tibco Spotfire) etc. Strong mathematical, statistical
-and programming professional with a Masters of Science (M.Sc.) focused in Data Analytics from Christian Brothers University.
+ so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-    - PROJECTS
-       Image classifier with deep Learning 
-        •	Developed a deep learning model to train an image classifier.
-        •	Model achieved 80% accuracy by the network on test images.
-       Donor prediction for a charity organization
-        •	Developed a Machine learning model to target donors who earn at least $50K annually to reduce mailing costs.
-        •	Model showed achieved 0.8587 F-1 score
-       Incentive calculation for pregnant customers 
-        •	Developed a machine learning model to identify true pregnant women for offering coupons among 1000 customers.
-        •	The model was able to find the actual pregnant women with scored AUC 0.9 AUC scores. 
-    - EDUCATION                          
-        •	M.Sc. in Computer Information Systems, CGPA 3.90, Christian Brothers University, Memphis, 	May 2019
-        •	Data Analytics Certificate, School of Engineering, Christian Brothers University, Memphis, 	May 2019 
-        •	Machine Learning nanodegree certification (https://confirm.udacity.com/SMCS7KRA), 		Oct 2019
-        •	Bachelor of Social Sciences, Anthropology, CGPA 3.28, University of Dhaka, Dhaka, 		Mar 2012
+    - Works 
+    - Links
     - <a href="google.com">Links</a>
     - Images
 
@@ -71,36 +51,12 @@ and programming professional with a Masters of Science (M.Sc.) focused in Data A
 # projects_title: Projects #(Use this to override about projects section title)
 
 
-
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
-WORK EXPERIENCES
-Graduate Admission Assistant, Christian Brothers University			Aug 2017 - May 2018
-•	Prepared admission documents; kept contact with admission candidates through emails, phone calls, and send admission decisions; 1-20s conducted seminar arrangements. 
-Research Assistant, Dept. of Anthropology, University of Memphis. 			Aug 2015 - May 2016
-•	Conducted class & exam materials; graded assignments, exam papers; assisted in the Medical Anthropology research.
-•	Attended American Anthropological Association (AAA) Annual Conference, Atlanta, GA, 2016
-Data Analyst, Access to Information Program (a2i), 			 	Jan 2013 - Jun 2015
-•	Performed data cleaning, & processing (MySQL, PostgreSQL), Assessed Quality & Risk, Made Strategic decisions 
-•	Created dashboards, scorecards, & evaluated data visualization reports (Cognos, Power BI, Tableau)
-Data Analyst Intern, Access to Information Program (a2i), 				Apr 2010 – Dec 2011
-•	Assisted in managing large, complex datasets & database systems; Created MS Excel & Access, CSV files
-•	Assisted in creating the largest Govt. Database System of the Republic of Bangladesh. 
-•	Offered a full-time data analyst position. 
 
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
-more_content: | 
-
-more_content: | 
-COMPETENCIES
-•	Data Mining/Extraction/Cleaning/Manipulation/Transformation, IoT, NLP, Big Data Analytics, API Mapping,
-•	Statistical Modelling (Classification) & Analysis, Advanced ML Techniques & Algorithms (Linear Models, Neural Networks, Decision Trees, Bayesian Techniques, Clustering, Anomaly Detection, Normal Behavior Modeling), 
-•	Data Mapping/ Warehouse, SaaS, Design Ad-Hoc Report/Report & Dashboards, Pattern Recognition,
-•	Predictive & Data Modeling, Strong Management, Liaison & Communication Skills.
-
-
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
