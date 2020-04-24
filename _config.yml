@@ -3,14 +3,14 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Mostafa Jubayer Khan
+title: Looking for a Graduate Program
+email: mostafajubayerkhan@gmail.com
+phone: 901-831-0693
+website: Coming Soon...
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
