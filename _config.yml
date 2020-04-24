@@ -13,14 +13,13 @@ website: Coming Soon...
 darkmode: never
 
 # Social links
-twitter_username: https://twitter.com/MJKhan01
+twitter_username: MJKhan01
 github_username: mostafajubayerkhan
 facebook_username: jubayermustafa
-instagram_username: jekyll
+instagram_username: mostafajubayerkhan
 linkedin_username: mostafa-jubayer-khan
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
+youtube_username: Mostafa Jubayer Khan
+
 
 # Additional icon links
 additional_links:
@@ -61,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Hi, I’m Mostafa, a passionate Data Driven technology enthusiast. I am highly fascinated by the opportunities created by the abundance of data and computing power in the modern corporate industry. Experienced Data Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Programming( Python, R, SAS, Java) for Data Science (Mathematics, Statistics, Machine Learning algorithm), Database Management (SQL Server 2008/2012, T-SQL, NoSQL, Azure, AWS,), and Data Visualization tools (Power BI, Tableau, Cognos, Tibco Spotfire) etc. Strong mathematical, statistical and programming professional with a Masters of Science (M.Sc.) focused in Data Analytics from Christian Brothers University . You could title this section **Interests** and include some of your other interests.
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
